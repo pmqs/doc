@@ -21,8 +21,7 @@ also be written as:
     say
     "Hello"; say "World";
 
-X<blocks|control flow, blocks>
-=head1 Blocks
+=head1 X<blocks|control flow, blocks>
 
 Like many languages, Perl 6 uses C<blocks> enclosed by C<{> and C<}> to turn
 multiple statements into a single statement.  It is OK to skip the semicolon
